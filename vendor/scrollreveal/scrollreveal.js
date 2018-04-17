@@ -12,8 +12,6 @@
 
 /////    /////    /////    /////
 /////    /////    /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
 /////             /////    /////
 /////             /////    /////
 /////    /////    /////    /////
@@ -25,14 +23,6 @@
 /////    /////    /////    /////
 /////    /////    /////    /////
 
-/**
- * ScrollReveal
- * ------------
- * Version : 3.1.4
- * Website : scrollrevealjs.org
- * Repo    : github.com/jlmakes/scrollreveal.js
- * Author  : Julian Lloyd (@jlmakes)
- */
 
 ;(function() {
     'use strict';
